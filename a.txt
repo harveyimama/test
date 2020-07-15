@@ -1,5 +1,3 @@
 Git is Good
 “Github is awesome”
 “more changes to a.txt”
-"commted and pushed"
-used vi
